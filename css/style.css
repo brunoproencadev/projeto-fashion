@@ -137,3 +137,30 @@ body {
     font-size: 11px;
     color: #8c8c8c;
 }
+
+.featured-banner {
+    background-color: #003d53;
+    background-image: url('../assets/bg_detalhe.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    color: #ffffff;
+    padding: 55px 40px;
+}
+
+.featured-content {
+    max-width: 520px;
+}
+
+.featured-content h2 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 1px;
+    margin-bottom: 22px;
+}
+
+.featured-content p {
+    font-size: 12px;
+    line-height: 1.8;
+    color: #d2e4ed;
+}
