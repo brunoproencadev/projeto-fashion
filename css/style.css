@@ -164,3 +164,24 @@ body {
     line-height: 1.8;
     color: #d2e4ed;
 }
+
+.call-action {
+    text-align: center;
+    padding: 40px 20px 25px 20px;
+}
+
+.call-action h3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-weight: 1000;
+    letter-spacing: 2.5px;
+    color: #1a1a1a;
+    margin-bottom: -1px;
+}
+
+.call-action .phone-number {
+    font-size: 18px;
+    font-weight: 1000;
+    color: #2b2b2b;
+    letter-spacing: 1px;
+}
